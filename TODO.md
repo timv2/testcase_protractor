@@ -10,3 +10,6 @@
 * multiple browsers
 * run in parallel
 * reporters
+* es6
+* browser onload
+* jasmine stopSpecOnExpectationFailure
