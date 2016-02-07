@@ -4,6 +4,7 @@ exports.config = {
   specs: [
     'e2e/*.js'
   ],
+  exclude: ['e2e/scenarios.js'],
 
   capabilities: {
     'browserName': 'chrome'
