@@ -7,3 +7,6 @@
 * screenshots
 * https://www.youtube.com/watch?v=mtcRjMFPMYs&authuser=1 ES6 generators + co js: make protractor wait for asynchronous calls (generators)
 * protractor ExpectedConditions
+* multiple browsers
+* run in parallel
+* reporters
